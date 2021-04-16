@@ -3,5 +3,6 @@ date
 cal
 echo "hello"
 echo "mylw"
+echo "gm"
 echo "bye"
 
