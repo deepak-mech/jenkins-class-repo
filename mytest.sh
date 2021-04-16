@@ -1,8 +1,6 @@
 echo "this is test data"
 date
-cal
-echo "hello"
-echo "mylw"
+date
 echo "gm"
 echo "bye"
 echo "kdfs"
