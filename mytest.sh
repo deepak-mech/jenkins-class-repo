@@ -4,3 +4,4 @@ date
 echo "gm"
 echo "bye"
 echo "kdfs"
+echo 'cal'
